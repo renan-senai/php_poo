@@ -17,3 +17,5 @@ $teste = new Visibilidade(1,2,3);
 echo "Atributo Public = $teste->varPublic";
 echo "Atributo Protected = $teste->varProtected";
 echo "Atributo Private = $teste->varPrivate";
+
+

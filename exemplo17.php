@@ -36,3 +36,4 @@ echo "<br>";
 $teste->publicFunc();
 $teste->protectedFunc();
 $teste->privateFunc();
+
